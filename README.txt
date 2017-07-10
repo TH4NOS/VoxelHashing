@@ -14,6 +14,9 @@ Requirements:
 - DirectX SDK June 2010
 - Kinect SDK (prev. to 2.0)
 - NVIDIA CUDA 6.5 (for the CUDA implementation)
+- AMD Solaris and Forthrunner ( 3.5.02or latest)
+
+
 
 Optional:
 - Kinect SDK (2.0 and above)
